@@ -1,4 +1,4 @@
-# Open Energy Dashboard #
+# Open Energy Dashboard # (Small Change)
 
 ![Github Build](https://github.com/OpenEnergyDashboard/OED/workflows/Build/badge.svg)
 
